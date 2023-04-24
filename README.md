@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Iddly
-- 🌱 I’m currently learning Full Stack Development with Javascript under the guidance of The Odin Project.
+- 🌱 I’m currently learning Full Stack Development with Javascript under the guidance of Codecademy & The Odin Project.
 - 📫 How to reach me: Discord - Iddly#3410, E-mail - tyrgrand@gmail.com
 
 <!---
